@@ -271,25 +271,6 @@ a {
         right: 90px;
     }
     
-    .divLoading {
-        position: absolute;
-        left: 30%;
-        top: 1180px;
-        background: linear-gradient(to left, white, rgba(0,0,0,0));
-    }
-    
-    @keyframes loading {
-        from {
-            position: absolute;
-            top: 1143px;
-            left: 30%;
-        }
-        to {
-            position: absolute;
-            top: 1143px;
-            left: 53%;
-        }
-    }
     
     .reys {
         margin-left: 140px;
